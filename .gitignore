@@ -1,0 +1,8 @@
+dependency-reduced-pom.xml
+.idea/
+catFacts.iml
+*.class
+*.log
+*.jar
+*.lst
+*.properties
